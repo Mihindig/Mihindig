@@ -10,7 +10,7 @@ To secure a position as a Tier 1 SOC Analyst, where I can apply my skills in inc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| MITRE ATT&CK Persistence Detection with Splunk          | <a href="https://github.com/Mihindig/MITRE-ATT-CK-Persistence-Detection-with-Splunk-/blob/main/README.md">Detection Lab</a>|
+| Windows event log + ART detection         | <a href="https://github.com/Mihindig/Windows-event-log-ART-detection.git">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -43,5 +43,5 @@ To secure a position as a Tier 1 SOC Analyst, where I can apply my skills in inc
 </div>
 
 ## Projects
-<a href="https://github.com/Mihindig/MITRE-ATT-CK-Persistence-Detection-with-Splunk-/blob/main/README.md">Detection Lab</a>
+<a href="https://github.com/Mihindig/MITRE-ATT-CK-Persistence-Detection-with-Splunk-/blob/main/README.md">Detection Lab</a> : Windows event logs + ART detection
 - SOC Automation Project
