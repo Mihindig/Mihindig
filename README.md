@@ -3,8 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
-I’m a passionate cybersecurity enthusiast with a focus on becoming a Security Operations Center (SOC) Analyst. I specialize in incident response, SIEM implementation, network traffic analysis, and security automation. I have completed the Google Cybersecurity Professional Certificate and continue to build hands-on projects to strengthen my skills. I’m always eager to learn and solve complex problems in cybersecurity.
+I am a dedicated cybersecurity enthusiast with a focus on becoming a Security Operations Center (SOC) Analyst. My expertise lies in incident response, SIEM implementation, network traffic analysis, and security automation. I have completed the Google Cybersecurity Professional Certificate and have developed hands-on projects that demonstrate my skills in real-world attack simulation and automated security workflows.
 
 ## Objective
 To secure a Tier 1 SOC Analyst role where I can apply my expertise in incident response, SIEM, and security automation to protect organizations from cyber threats.
@@ -13,8 +12,7 @@ To secure a Tier 1 SOC Analyst role where I can apply my expertise in incident r
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows event log + ART detection         | <a href="https://github.com/Mihindig/Windows-event-log-ART-detection.git">Windows event log+ART detection</a>|
-| Network Traffic Analysis & Exploitation Detection | <a href="https://github.com/Mihindig/Windows-event-log-ART-detection.git">Network Traffic Analysis & Exploitation Detection</a>|
+| Threat Vector:Simulated Attack Detection and Analysis | <a href="https://github.com/Mihindig/Threat-Vector-Simulated-Attack-Detection-and-Analysis.git">Network Traffic Analysis & Exploitation Detection</a>|
 | Automated SOC Workflow: Threat Detection, Intelligence Enrichment, and Incident Response         | <a href="https://github.com/Mihindig/Automated-SOC-Workflow-Threat-Detection-Intelligence-Enrichment-and-Incident-Response-.git">Automated SOC Workflow: Threat Detection, Intelligence Enrichment, and Incident Response</a>|
 
 ## Tools
@@ -52,40 +50,24 @@ To secure a Tier 1 SOC Analyst role where I can apply my expertise in incident r
 
 ## Projects
 
-1.Windows Event Log Analysis & Threat Detection
+1.Threat Vector: Simulated Attack Detection and Analysis
 
-Configured Windows 10 Pro VM with Sysmon & Splunk.
+* Set up Windows 10 Pro and Kali Linux VMs for internal network attack simulation.
 
-Used Atomic Red Team (ART) for security testing & detection.
+* Used Metasploit (MSFVenom) to generate payloads and simulate exploitation.
 
-Logged and analyzed event logs in Splunk & Event Viewer.
+* Configured Sysmon for detailed event logging and analyzed the data using Splunk.
 
-Mapped detections to MITRE ATT&CK framework.
+* Created custom Splunk alerts to detect exploitation and privilege escalation attempts.
 
-GitHub Repository
+* Validated detection results with VirusTotal and mapped findings to the MITRE ATT&CK framework.
 
+2.Automated SOC Workflow: Threat Detection, Intelligence Enrichment, and Incident Response
 
-2.Network Traffic Analysis & Exploitation Detection
+* Deployed Wazuh for real-time threat detection with custom rules (e.g., for Mimikatz).
 
-Set up Windows 10 Pro & Kali Linux VMs for attack simulation.
+* Integrated TheHive for case management and Shuffle for automating alert responses.
 
-Configured internal networking & static IP assignments.
+* Automated threat intelligence enrichment using VirusTotal and streamlined incident handling.
 
-Used Metasploit (MSFVenom) to generate payloads for attack testing.
-
-Logged and analyzed network traffic using Splunk & Sysmon.
-
-GitHub Repository
-
-
-3.SOC Automation & Threat Response
-
-Deployed Wazuh, TheHive, and Shuffle SOAR for automated incident response.
-
-Created custom detection rules in Wazuh for tools like Mimikatz.
-
-Integrated Shuffle SOAR to automate security alert responses.
-
-Connected TheHive for case management and email alerts.
-
-GitHub Repository
+* Configured automated email alerts and mapped response workflows to MITRE ATT&CK tactics.
