@@ -12,7 +12,7 @@ To secure a Tier 1 SOC Analyst role where I can apply my expertise in SIEM opera
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Vector:Simulated Attack Detection and Analysis | <a href="https://github.com/Mihindig/Threat-Vector-Simulated-Attack-Detection-and-Analysis.git">Network Traffic Analysis & Exploitation Detection</a>|
+| Threat Vector:Simulated Attack Detection and Analysis | <a href="https://github.com/Mihindig/Threat-Vector-Simulated-Attack-Detection-and-Analysis.git">Threat Vector:Simulated Attack Detection and Analysis</a>|
 | Automated SOC Workflow: Threat Detection, Intelligence Enrichment, and Incident Response         | <a href="https://github.com/Mihindig/Automated-SOC-Workflow-Threat-Detection-Intelligence-Enrichment-and-Incident-Response-.git">Automated SOC Workflow: Threat Detection, Intelligence Enrichment, and Incident Response</a>|
 | Windows Event Log: ART detection | <a href="https://github.com/Mihindig/Windows-event-log-ART-detection.git">Windows Event Log: ART detection</a>|
 
