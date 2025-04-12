@@ -15,9 +15,7 @@ To secure a Cybersecurity Analyst role where I can leverage my skills in threat 
 | Security Automation and Intelligence Enrichment | <a href="https://github.com/Mihindig/Automated-SOC-Workflow-Threat-Detection-Intelligence-Enrichment-and-Incident-Response-.git">Security Automation and Intelligence Enrichment</a>|
 | Log Analysis and Adversary Detection Engineering | <a href="https://github.com/Mihindig/Detecting-Evil-with-Splunk-and-MITRE-ATT-CK.git">Log Analysis and Adversary Detection Engineering</a>|
 | Windows Event Log Analysis and Process Monitoring | <a href="https://github.com/Mihindig/eventid4688.git">Windows Event Log Analysis and Process Monitoring</a>|
-                                                                              
----
-
+                                                                            
 ## Projects Overview
 
 ### Threat Vector: Simulated Attack Detection and Analysis  
@@ -41,8 +39,6 @@ To secure a Cybersecurity Analyst role where I can leverage my skills in threat 
 - Demonstrated practical tests to monitor process behavior and detect reconnaissance activities.  
 - Highlighted the importance of filtering noisy data and leveraging Security Event Viewer effectively.  
 
----
-
 ## Supplementary Contributions  
 
 ### Bybit Heist Analysis  
@@ -50,9 +46,7 @@ To secure a Cybersecurity Analyst role where I can leverage my skills in threat 
 - Mapped attacker tactics to the MITRE ATT&CK framework, from credential harvesting to defense evasion and UI manipulation.  
 - Provided insights into vulnerabilities, defensive strategies, and lessons learned to prevent similar incidents.
 
----
-
-## 🛠 Tools  
+## Tools  
 
 ### Security Monitoring & Analysis  
 <div>  
@@ -74,13 +68,11 @@ To secure a Cybersecurity Analyst role where I can leverage my skills in threat 
   <a href="https://shuffler.io/"> <img src="https://img.shields.io/badge/-Shuffle_SOAR-FF5733?&style=for-the-badge&logo=Shuffle&logoColor=white" /> </a>  
 </div>  
 
----
-
-## 🧾 Certifications  
+## Certifications  
 
 <div>  
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />  
 </div>  
 
----
+
 
