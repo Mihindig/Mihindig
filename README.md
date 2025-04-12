@@ -15,7 +15,7 @@ To secure a Cybersecurity Analyst role where I can leverage my skills in threat 
 | Security Automation and Intelligence Enrichment | <a href="https://github.com/Mihindig/Automated-SOC-Workflow-Threat-Detection-Intelligence-Enrichment-and-Incident-Response-.git">Security Automation and Intelligence Enrichment</a>|
 | Log Analysis and Adversary Detection Engineering | <a href="https://github.com/Mihindig/Detecting-Evil-with-Splunk-and-MITRE-ATT-CK.git">Log Analysis and Adversary Detection Engineering</a>|
 | Windows Event Log Analysis and Process Monitoring | <a href="https://github.com/Mihindig/eventid4688.git">Windows Event Log Analysis and Process Monitoring</a>|
-                                                                            |  
+                                                                              
 ---
 
 ## Projects Overview
