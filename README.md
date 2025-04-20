@@ -23,8 +23,6 @@ To land a junior cybersecurity analyst role where I can apply my hands-on experi
 
 ---
 
-Alright, here's a concise list of the tools you can include in your GitHub portfolio:
-
 ## 🧰 Tools Used
 
 ### Network & Traffic Analysis  
@@ -132,4 +130,4 @@ If you're looking for a driven, project-proven cybersecurity analyst with hands-
 
 ---
 
-Wanna publish this on GitHub? I can also help you write the `README.md` structure for each project folder, so everything's clean and clickable. Let me know!
+Some tools could be unethical,But all these are for educational purposes only!
