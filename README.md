@@ -131,4 +131,10 @@ If you're looking for a driven, project-proven cybersecurity analyst with hands-
 
 ---
 
-Some tools could be unethical,But all these are for educational purposes only!
+As a self taught cybersecurity enthusiast,I do seek for Internships along with Entry Level/Junior positions!
+Some tools could be ethical/unethical,all the tools has been used for educational purposes only!
+
+Please do reach out to me via Linkedin: www.linkedin.com/in/mihindi-gunawardana-44a0a432b
+Read my other projects: https://github.com/Mihindig/Mihindig
+
+Connect with me Via: mgunawardana06@gmail.com
