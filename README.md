@@ -20,7 +20,6 @@ To land a junior cybersecurity analyst role where I can apply my hands-on experi
 | EventID 4688 Configuration                                   | <a href="https://github.com/Mihindig/eventid4688.git">Check It Out!</a>                          |
 | Incident Analyzing & Documenting                             | <a href="https://github.com/Mihindig/The-Bybit-Heist.git">Check It Out!</a>                         |
 | Investigation into Network Infection and Command-and-Control (C2) Analysis | <a href="https://github.com/Mihindig/Unmasking-Network-Threats-A-Forensic-Case-Study.git">Check It Out!</a> |
-|Active Directory Lab with Splunk Logging and Adversary Simulation Setup (Screenshots haven't uploaded yet!) | <a href="https://github.com/Mihindig/Active-Directory-Lab-with-Splunk-Logging-and-Adversary-Simulation-Setup.git">Check It Out!</a> |
 | Computer Core theory |<a href="https://github.com/Mihindig/Computer-Core-Theory-.git">Check It Out!</a> |
 | Active Directory Detection & Automation Lab |<a href="https://github.com/mgunawardana/Active-Directory-Detection-Automation-Project.git">Check It Out!</a> |
 
