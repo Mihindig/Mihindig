@@ -14,6 +14,8 @@ To land a junior cybersecurity analyst role where I can apply my hands-on experi
 
 | Skill                                                        | Associated Project                                                                 |
 |--------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| SOC Automation Lab |<a href="https://github.com/mgunawardana/SOC-Automation-Lab">Check It Out!</a> |
+| Active Directory Detection & Automation Lab |<a href="https://github.com/mgunawardana/Active-Directory-Detection-Automation-Project.git">Check It Out!</a> |
 | Threat Vector:Simulated Attack Detection and Analysis        | <a href="https://github.com/Mihindig/Threat-Vector-Simulated-Attack-Detection-and-Analysis.git">Check It Out!</a> |
 | Automated SOC Workflow: Threat Detection, Intelligence Enrichment, and Incident Response | <a href="https://github.com/Mihindig/Automated-SOC-Workflow-Threat-Detection-Intelligence-Enrichment-and-Incident-Response-.git">Check It Out!</a> |
 | Detecting Evil with Splunk and MITRE ATT&CK                  | <a href="https://github.com/Mihindig/Detecting-Evil-with-Splunk-and-MITRE-ATT-CK.git">Check It Out!</a> |
@@ -21,7 +23,7 @@ To land a junior cybersecurity analyst role where I can apply my hands-on experi
 | Incident Analyzing & Documenting                             | <a href="https://github.com/Mihindig/The-Bybit-Heist.git">Check It Out!</a>                         |
 | Investigation into Network Infection and Command-and-Control (C2) Analysis | <a href="https://github.com/Mihindig/Unmasking-Network-Threats-A-Forensic-Case-Study.git">Check It Out!</a> |
 | Computer Core theory |<a href="https://github.com/Mihindig/Computer-Core-Theory-.git">Check It Out!</a> |
-| Active Directory Detection & Automation Lab |<a href="https://github.com/mgunawardana/Active-Directory-Detection-Automation-Project.git">Check It Out!</a> |
+
 
 ---
 
